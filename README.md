@@ -6,6 +6,6 @@ Installation requirements: inquirer, path, fs, jest
 
 
 Link to watch demo:
-[https://docs.google.com/document/d/1qJaTDEOMhENs1-Dp-fVcWQC3xgWOyL1cXUf0BCbZB40/edit\](https://docs.google.com/document/d/1qJaTDEOMhENs1-Dp-fVcWQC3xgWOyL1cXUf0BCbZB40/edit?usp=sharing)
+https://docs.google.com/document/d/1qJaTDEOMhENs1-Dp-fVcWQC3xgWOyL1cXUf0BCbZB40/edit 
  
 <img src="./img/example.jpg">
